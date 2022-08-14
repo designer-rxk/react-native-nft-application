@@ -3,3 +3,4 @@
 To run the project:
 * Install dependencies
 * Npm start
+You can view the project on web(http://localhost:3000) or on mobile (Android - Expo Go)
